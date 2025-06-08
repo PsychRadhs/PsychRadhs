@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PsychRadhs
-- 👀 I’m interested in Psychology
-- 🌱 I’m currently learning R 
-- 🙋‍♀️ I’m looking to collaborate on research projects
+- 👥 I’m a student of Psychology
+- 🌱 In a quest to upskill myself, I'm currently learning R 
+- 🙋‍♀️ Always open to collaborate on research projects
 
 
 <!---
